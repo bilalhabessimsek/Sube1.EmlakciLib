@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sube1.EmlakciLib", "Sube1.EmlakciLib.csproj", "{1FAB2003-924C-4DC5-B23D-F00E50839F8C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sube1.EmlakciApp", "..\Sube1.EmlakciApp\Sube1.EmlakciApp.csproj", "{53AAF71B-8670-475B-B92D-BBDDDF291503}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1FAB2003-924C-4DC5-B23D-F00E50839F8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FAB2003-924C-4DC5-B23D-F00E50839F8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FAB2003-924C-4DC5-B23D-F00E50839F8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FAB2003-924C-4DC5-B23D-F00E50839F8C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53AAF71B-8670-475B-B92D-BBDDDF291503}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53AAF71B-8670-475B-B92D-BBDDDF291503}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53AAF71B-8670-475B-B92D-BBDDDF291503}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53AAF71B-8670-475B-B92D-BBDDDF291503}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
